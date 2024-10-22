@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import pandas as pd
 
+
 # Tạo dataframe rỗng để lưu dữ liệu
 d = pd.DataFrame({'Name of brand': [], 'year active': []})
 
